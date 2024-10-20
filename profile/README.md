@@ -11,7 +11,7 @@ We are a team of enthusiastic developers and engineers participating at HackYeah
 | Bartek         | Devops  | Kubernetes, Infrastructure, Sales Force Specialist    |
 | Wiktor         | Software Engineer                  | C#, AI/ML, Python                          |
 | Marcus        | Software Engineer                  | Rust, JavaScript, API Design               |
-| Paulo          | Enginer Manager                  | Clojure, PHP, Javascript, Python        |
+| Paulo          | Engineer Manager                  | Clojure, PHP, Javascript, Python        |
 
 
 ### Fun Facts 🍿
